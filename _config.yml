@@ -1,0 +1,28 @@
+name: Jewellery by Liam Ross
+favicon: null
+layout_spectrum: 0.9702079105190933
+typography_spectrum: 0.9003225236665457
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9343013144098222
+  lightness: 0.5983371993061155
+  saturation: 0.10433120094239712
+  rhythmicContrast: 0.13247772119939327
+purpose: []
